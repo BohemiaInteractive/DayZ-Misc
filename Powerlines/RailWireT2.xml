@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PowerlinesConfiguration>
+  <Poles>
+    <Pole>
+      <Name>Rail_PoleTT2</Name>
+      <Type>1</Type>
+      <ModelAngle>90</ModelAngle>
+      <Offset>
+        <X>0.00</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Offset>
+      <JointLines>
+        <JointLine>
+
+          <Joint>
+            <Type>InOut</Type>
+            <X>-7.43</X>
+            <Y>7.55</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-7.43</X>
+            <Y>6.29</Y>
+            <Z>0.000</Z>
+          </Joint>
+
+          <Joint>
+            <Type>InOut</Type>
+            <X>-2.63</X>
+            <Y>7.55</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-2.63</X>
+            <Y>6.29</Y>
+            <Z>0.000</Z>
+          </Joint>
+
+
+          <Joint>
+            <Type>InOut</Type>
+            <X>-11.968</X>
+            <Y>8.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-12.56</X>
+            <Y>8.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-13.13</X>
+            <Y>8.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-12.845</X>
+            <Y>7.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-11.968</X>
+            <Y>5.968</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>-12.56</X>
+            <Y>5.968</Y>
+            <Z>0.000</Z>
+          </Joint> 
+
+
+
+          <Joint>
+            <Type>InOut</Type>
+            <X>7.43</X>
+            <Y>7.55</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>7.43</X>
+            <Y>6.29</Y>
+            <Z>0.000</Z>
+          </Joint>
+
+          <Joint>
+            <Type>InOut</Type>
+            <X>2.63</X>
+            <Y>7.55</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>2.63</X>
+            <Y>6.29</Y>
+            <Z>0.000</Z>
+          </Joint>
+
+
+          <Joint>
+            <Type>InOut</Type>
+            <X>11.968</X>
+            <Y>8.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>12.56</X>
+            <Y>8.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>13.13</X>
+            <Y>8.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>12.845</X>
+            <Y>7.468</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>11.968</X>
+            <Y>5.968</Y>
+            <Z>0.000</Z>
+          </Joint>
+          <Joint>
+            <Type>InOut</Type>
+            <X>12.56</X>
+            <Y>5.968</Y>
+            <Z>0.000</Z>
+          </Joint> 
+
+
+        </JointLine>
+      </JointLines>
+    </Pole>
+  </Poles>
+<Wires>
+    <Wire>
+      <Name>Power_Wire_50</Name>
+      <Length>50</Length>
+      <Height>-0.4</Height>
+    </Wire>
+  <Wire>
+      <Name>Power_Wire_50</Name>
+      <Length>50</Length>
+      <Height>-0.4</Height>
+    <MapDraw>true</MapDraw>
+    </Wire>
+  </Wires>
+</PowerlinesConfiguration>
